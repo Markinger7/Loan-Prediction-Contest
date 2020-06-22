@@ -22,7 +22,7 @@ Company wants to automate the loan eligibility process (real time) based on cust
 - Final Model: LogisticRegression
   - C=100
   - max_iter=50
-- Final Score in the context: 0.78
+- Final Score in the contest: 0.78
 
 ### Python libaries
 - numpy

@@ -24,6 +24,11 @@ Company wants to automate the loan eligibility process (real time) based on cust
   - max_iter=50
 - Final Score in the contest: 0.78
 
+### To-Do
+- use SMOTE for upsampling
+- make a webapp, where users can enter their data to get an estimate if they get the loan
+
+
 ### Python libaries
 - numpy
 - pandas

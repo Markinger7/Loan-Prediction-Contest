@@ -40,6 +40,7 @@ I used streamlit to make the web app and Heroku to make it accessible without ru
 ### How to access
 On the web
 - <a href='https://loan-prediction-web.herokuapp.com'>Link</a> to web app
+
 Locally
 1. set working dict to the folder
 2. make sure you have activated your environment with the necessary libaries 

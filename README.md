@@ -29,7 +29,6 @@ Company wants to automate the loan eligibility process (real time) based on cust
 
 ### To-Do
 - use SMOTE for upsampling to get better predictions
-- train one the whole dataset
 - use ensamble leraning to enhace score
 
 ## Web app based on trained model
